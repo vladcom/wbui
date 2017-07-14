@@ -1,0 +1,25 @@
+{
+  "name": "wbui-framework",
+  "version": "1.0.0",
+  "description": "free framework from WebBoost company",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladcom/wbui.git"
+  },
+  "keywords": [
+    "css3",
+    "html",
+    "framework",
+    "wbui"
+  ],
+  "author": "Vlad Segeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladcom/wbui/issues"
+  },
+  "homepage": "https://github.com/vladcom/wbui#readme"
+}
